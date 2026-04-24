@@ -1,0 +1,8 @@
+D:\Bkp\eclipse-workspace-selenium\TRMGA\src\test\java\org\trmga\Ags\contract\TC001_VerifyUserIsAbleToLogInTest.java
+D:\Bkp\eclipse-workspace-selenium\TRMGA\src\test\java\org\trmga\Ags\contract\TC002_VerifyUserIsAbleToCreateContractWithAllFieldsTest.java
+D:\Bkp\eclipse-workspace-selenium\TRMGA\src\test\java\org\trmga\Ags\contract\TC003_VerifUserIsAbleToCreateContractWithNonMandatoryFields.java
+D:\Bkp\eclipse-workspace-selenium\TRMGA\src\test\java\org\trmga\oil\contract\TC001_VerifUserIsAbleToLogIn.java
+D:\Bkp\eclipse-workspace-selenium\TRMGA\src\test\java\org\trmga\oil\contract\TC002_VerifUserIsAbleToCreateOilContractWithAllFieldsTest.java
+D:\Bkp\eclipse-workspace-selenium\TRMGA\src\test\java\org\trmga\oil\contract\TC003_VerifUserIsAbleToCreateOilContractWithNonMandatoryFieldsTest.java
+D:\Bkp\eclipse-workspace-selenium\TRMGA\src\test\java\org\trmga\oil\contract\TC004_VerifUserIsAbleToCreateContractWithNoFieldsSelect.java
+D:\Bkp\eclipse-workspace-selenium\TRMGA\src\test\java\org\trmga\oil\contract\TC005_VerifUserIsAbleToCreateContractWithMandatoryFields.java

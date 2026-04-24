@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Ags">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="org.trmga.oil.contract.TC002_VerifUserIsAbleToCreateOilContractWithAllFieldsTest"/>
+      <class name="org.trmga.oil.contract.TC005_VerifUserIsAbleToCreateContractWithMandatoryFields"/>
+      <class name="org.trmga.oil.contract.TC004_VerifUserIsAbleToCreateContractWithNoFieldsSelect"/>
+      <class name="org.trmga.oil.contract.TC003_VerifUserIsAbleToCreateOilContractWithNonMandatoryFieldsTest"/>
+      <class name="org.trmga.oil.contract.TC001_VerifUserIsAbleToLogIn"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Ags -->

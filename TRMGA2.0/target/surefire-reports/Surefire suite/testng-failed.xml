@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Surefire suite]" verbose="0">
+  <test thread-count="5" name="Surefire test(failed)" verbose="0">
+    <classes>
+      <class name="org.trmga.Ags.contract.TC002_VerifyUserIsAbleToCreateContractWithAllFieldsTest">
+        <methods>
+          <include name="tC002_VerifyUserIsAbleToCreateContractWithAllFieldsTest"/>
+        </methods>
+      </class> <!-- org.trmga.Ags.contract.TC002_VerifyUserIsAbleToCreateContractWithAllFieldsTest -->
+      <class name="org.trmga.oil.contract.TC002_VerifUserIsAbleToCreateOilContractWithAllFieldsTest">
+        <methods>
+          <include name="tC002_VerifUserIsAbleToCreateOilContractWithAllFieldsTest"/>
+        </methods>
+      </class> <!-- org.trmga.oil.contract.TC002_VerifUserIsAbleToCreateOilContractWithAllFieldsTest -->
+      <class name="org.trmga.oil.contract.TC003_VerifUserIsAbleToCreateOilContractWithNonMandatoryFieldsTest">
+        <methods>
+          <include name="tC003_VerifUserIsAbleToCreateOilContractWithNonMandatoryFieldsTest"/>
+        </methods>
+      </class> <!-- org.trmga.oil.contract.TC003_VerifUserIsAbleToCreateOilContractWithNonMandatoryFieldsTest -->
+      <class name="org.trmga.Ags.contract.TC001_VerifyUserIsAbleToLogInTest">
+        <methods>
+          <include name="tC001_VerifUserIsAbleToCreateContractTest"/>
+        </methods>
+      </class> <!-- org.trmga.Ags.contract.TC001_VerifyUserIsAbleToLogInTest -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->

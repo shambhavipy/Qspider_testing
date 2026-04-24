@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="BatchSuiteOIL">
+    <classes>
+      <class name="org.trmga.Ags.contract.TC002_VerifyUserIsAbleToCreateContractWithAllFieldsTest"/>
+      <class name="org.trmga.Ags.contract.TC001_VerifyUserIsAbleToLogInTest"/>
+      <class name="org.trmga.Ags.contract.TC003_VerifUserIsAbleToCreateContractWithNonMandatoryFields"/>
+    </classes>
+  </test> <!-- BatchSuiteOIL -->
+</suite> <!-- Suite -->
