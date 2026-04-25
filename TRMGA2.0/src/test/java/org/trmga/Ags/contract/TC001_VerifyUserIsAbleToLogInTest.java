@@ -13,6 +13,7 @@ public class TC001_VerifyUserIsAbleToLogInTest {
 
 	
 //////////////////////////////
+///..................
 	@Test
 	public void tC001_VerifUserIsAbleToCreateContractTest() throws IOException {
 		// TODO Auto-generated method stub
